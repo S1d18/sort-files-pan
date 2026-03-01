@@ -1,0 +1,15 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+node_modules/
+nul
+.claude/
+.idea/
+pdf/
+*.csv
+Baza/
+benchmark_summary.txt
+package-lock.json
+test/
+bas_project/

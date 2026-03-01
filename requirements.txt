@@ -1,0 +1,4 @@
+# requirements.txt
+PyPDF2>=3.0.0
+pdfminer.six>=20220524
+pymupdf>=1.23.0    # для ускоренного извлечения текста (fitz)
